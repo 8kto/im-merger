@@ -14,9 +14,9 @@
 #-------------------------------------------------------------------------------
 # Информация
 #-------------------------------------------------------------------------------
-AUTHOR='zm8'
+AUTHOR='Okto'
 VERSION='1.0.1'
-LINK='http://axisful.me/cactus/shell/im-merger'
+LINK='http://axisful.info'
 LICENSE='GNU GPLv3'
 
 HELP=$( cat <<EOF
